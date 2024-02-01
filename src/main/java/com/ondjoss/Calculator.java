@@ -3,6 +3,7 @@ package com.ondjoss;
 /**
  * Created by Steve Tchatchouang at 01/02/2024
  */
+
 public class Calculator {
     public static int sum(int... args) {
         int sum = 0;
